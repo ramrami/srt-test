@@ -1,13 +1,12 @@
-Get started with `yarn dev`
+Your objective is to create:
 
-This is a test project... Your objective is to create:
+A multistep form that submits an email, password, and accountType to retrieve a token
 
-1. A multistep form that submits and email and a password to retreive a token
-   Test that it must pass:
-2. User must enter a valid email before it continues to the make password page
-3. Password must have one capital letter, one number, one special character (+!%&) and at least 8 characters long
-4. User must select between a radio button with submission values of "client" or "therapist"
-5. Must send data and display token on page
+The test must pass the following criteria:
+1. User must enter a valid email before it continues to the make password page
+2. Password must have one capital letter, one number, one special character (+!%&) and at least 8 characters long
+3. User must select between a radio button with submission values of "client" or "therapist"
+4. Must send data and display token on page
 
 You will find the data for createUser mutation here: https://serotana-test-rb.onrender.com/graphiql
 Post mutation to: https://serotana-test-rb.onrender.com/graphql
