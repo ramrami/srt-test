@@ -1,3 +1,5 @@
+**NOTE: Push and send what you have after one hour regardless if it is finished**
+
 https://www.loom.com/share/4df0e37fce374c00bceb56cfdae4958b
 
 Please use `yarn` to run this projects,I'd recommend using yarn while reading this to install all dependencies while reading
@@ -32,3 +34,5 @@ Everything you need is already installed
 In your env set the following:
 
 NEXT_PUBLIC_GRAPHQL_URL="https://serotana-test-rb.onrender.com/graphql"
+
+**NOTE: Push and send what you have after one hour regardless if it is finished**
